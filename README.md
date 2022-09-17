@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **pinage404/pinage404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![pinage404's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinage404&theme=github_dark&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=pinage404&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
