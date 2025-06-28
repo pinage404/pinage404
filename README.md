@@ -25,3 +25,6 @@ You can [find me here](https://wheretofind.me/@pinage404)
 [![trophy](https://github-profile-trophy.vercel.app/?username=pinage404&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![contributions](https://contribution.oooo.so/_/pinage404?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=mess&animation_duration=2&format=svg&weeks=50&theme=blue&widget_size=small&dark=true)](https://contribution.oooo.so)
+
+
+![Used Licenses](https://github-licenses-stats.vercel.app/api/top-licenses?username=pinage404&count=5)
